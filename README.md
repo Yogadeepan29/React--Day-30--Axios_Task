@@ -64,7 +64,7 @@ YOGADEEPAN.R
 ## Live Demo
 ------------
 
-Check out the live demo: [Axios|CRUD](https://ryd-react-axioscrud.netlify.app)
+Check out the live demo: [Axios | CRUD](https://ryd-react-axioscrud.netlify.app)
 
 ## Acknowledgments
 ------------------
